@@ -18,15 +18,15 @@ Model: Random Over Sampler
 
 ![Results/NaiveRandomOversampling2.png](https://github.com/bamertz/Credit_Risk_Analysis/blob/51d42f8a5f977e2fe5e962bc93c36e3e682c474c/Results/NaiveRandomOversampling2.png)
 
-* Balanced Accuracy Score:
+* Balanced Accuracy Score: 65.71%
 
-* Precision Score:
-  * High Risk:
-  * Low RisK:
+* Precision Score: 
+  * High Risk: 0.01
+  * Low RisK: 1.00
 
 * Recall Score:
-  * High Risk:
-  * Low RisK:
+  * High Risk: 0.71
+  * Low RisK: 0.60
 
 Model: SMOTE
 
@@ -34,15 +34,15 @@ Model: SMOTE
 
 ![Results/SMOTEOversampling2.png](Results/SMOTEOversampling2.png)
 
-* Balanced Accuracy Score:
+* Balanced Accuracy Score: 66.19%
 
 * Precision Score:
-  * High Risk:
-  * Low RisK:
+  * High Risk: 0.01
+  * Low RisK: 1.00
 
 * Recall Score:
-  * High Risk:
-  * Low RisK:
+  * High Risk: 0.63
+  * Low RisK: 0.69
 
 
 Model: ClusterCentroids
@@ -51,15 +51,15 @@ Model: ClusterCentroids
 
 ![Results/Undersampling2.png](Results/Undersampling2.png)
 
-* Balanced Accuracy Score:
+* Balanced Accuracy Score: 54.47%
 
 * Precision Score:
-  * High Risk:
-  * Low RisK:
+  * High Risk: 0.01
+  * Low RisK: 1.00
 
 * Recall Score:
-  * High Risk:
-  * Low RisK:
+  * High Risk: 0.69
+  * Low RisK: 0.40
 
 
 ## Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
@@ -70,15 +70,15 @@ SMOTEENN Model
 
 ![Results/SMOTEENN2.png](Results/SMOTEENN2.png)
 
-* Balanced Accuracy Score:
+* Balanced Accuracy Score: 66.68%
 
 * Precision Score:
-  * High Risk:
-  * Low RisK:
+  * High Risk: 0.01
+  * Low RisK: 1.00
 
 * Recall Score:
-  * High Risk:
-  * Low RisK:
+  * High Risk: 0.78
+  * Low RisK: 0.55
 
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
@@ -89,15 +89,15 @@ Balanced Random Forest Classifier
 
 ![Results/BalancedRandomForestClassifier2.png](Results/BalancedRandomForestClassifier2.png)
 
-* Balanced Accuracy Score:
+* Balanced Accuracy Score: 82.64%
 
 * Precision Score:
-  * High Risk:
-  * Low RisK:
+  * High Risk: 0.03
+  * Low RisK: 1.00
 
 * Recall Score:
-  * High Risk:
-  * Low RisK:
+  * High Risk: 0.77
+  * Low RisK: 0.88
 
 Easy Ensemble Classifer
 
@@ -105,15 +105,15 @@ Easy Ensemble Classifer
 
 ![Results/EasyEnsembleAdaBoostClassifier2.png](Results/EasyEnsembleAdaBoostClassifier2.png)
 
-* Balanced Accuracy Score:
+* Balanced Accuracy Score: 92.76%
 
 * Precision Score:
-  * High Risk:
-  * Low RisK:
+  * High Risk: 0.07
+  * Low RisK: 1.00
 
 * Recall Score:
-  * High Risk:
-  * Low RisK:
+  * High Risk: 0.91
+  * Low RisK: 0.95
 
 # Summary
 
