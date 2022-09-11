@@ -12,10 +12,8 @@ The purpose of this analysis was to create a supervised machine learning model t
 ## Deliverable 1: Use Resampling Models to Predict Credit Risk
 
 Model: Random Over Sampler
-
-[NaiveRandomOversampling1]!(Results/NaiveRandomOversampling1.png)
-[NaiveRandomOversampling2]!(Results/NaiveRandomOversampling2.png)
-
+[Results/NaiveRandomOversampling1.png](https://github.com/bamertz/Credit_Risk_Analysis/blob/bc51e15dde79421b866323360b49c347efe5a072/Results/NaiveRandomOversampling1.png))
+[Results/NaiveRandomOversampling2.png](https://github.com/bamertz/Credit_Risk_Analysis/blob/bc51e15dde79421b866323360b49c347efe5a072/Results/NaiveRandomOversampling2.png))
 
 Model: SMOTE
 
