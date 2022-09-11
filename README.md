@@ -18,6 +18,17 @@ Model: Random Over Sampler
 
 ![Results/NaiveRandomOversampling2.png](https://github.com/bamertz/Credit_Risk_Analysis/blob/51d42f8a5f977e2fe5e962bc93c36e3e682c474c/Results/NaiveRandomOversampling2.png)
 
+* Balanced Accuracy Score:
+
+* Precision Score:
+** High Risk:
+** Low RisK:
+** Average:
+
+* Recall Score:
+** High Risk:
+** Low RisK:
+** Average:
 
 Model: SMOTE
 
@@ -25,11 +36,35 @@ Model: SMOTE
 
 ![Results/SMOTEOversampling2.png](Results/SMOTEOversampling2.png)
 
+* Balanced Accuracy Score:
+
+* Precision Score:
+** High Risk:
+** Low RisK:
+** Average:
+
+* Recall Score:
+** High Risk:
+** Low RisK:
+** Average:
+
 Model: ClusterCentroids
 
 ![Results/Undersampling1.png](Results/Undersampling1.png)
 
 ![Results/Undersampling2.png](Results/Undersampling2.png)
+
+* Balanced Accuracy Score:
+
+* Precision Score:
+** High Risk:
+** Low RisK:
+** Average:
+
+* Recall Score:
+** High Risk:
+** Low RisK:
+** Average:
 
 
 ## Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
@@ -40,6 +75,18 @@ SMOTEENN Model
 
 ![Results/SMOTEENN2.png](Results/SMOTEENN2.png)
 
+* Balanced Accuracy Score:
+
+* Precision Score:
+** High Risk:
+** Low RisK:
+** Average:
+
+* Recall Score:
+** High Risk:
+** Low RisK:
+** Average:
+
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
@@ -49,11 +96,35 @@ Balanced Random Forest Classifier
 
 ![Results/BalancedRandomForestClassifier2.png](Results/BalancedRandomForestClassifier2.png)
 
+* Balanced Accuracy Score:
+
+* Precision Score:
+** High Risk:
+** Low RisK:
+** Average:
+
+* Recall Score:
+** High Risk:
+** Low RisK:
+** Average:
+
 Easy Ensemble Classifer
 
 ![Results/EasyEnsembleAdaBoostClassifier1.png](Results/EasyEnsembleAdaBoostClassifier1.png)
 
 ![Results/EasyEnsembleAdaBoostClassifier2.png](Results/EasyEnsembleAdaBoostClassifier2.png)
+
+* Balanced Accuracy Score:
+
+* Precision Score:
+** High Risk:
+** Low RisK:
+** Average:
+
+* Recall Score:
+** High Risk:
+** Low RisK:
+** Average:
 
 # Summary
 
