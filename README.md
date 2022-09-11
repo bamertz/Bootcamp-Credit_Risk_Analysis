@@ -21,14 +21,12 @@ Model: Random Over Sampler
 * Balanced Accuracy Score:
 
 * Precision Score:
-** High Risk:
-** Low RisK:
-** Average:
+  * High Risk:
+  * Low RisK:
 
 * Recall Score:
-** High Risk:
-** Low RisK:
-** Average:
+  * High Risk:
+  * Low RisK:
 
 Model: SMOTE
 
@@ -39,14 +37,13 @@ Model: SMOTE
 * Balanced Accuracy Score:
 
 * Precision Score:
-** High Risk:
-** Low RisK:
-** Average:
+  * High Risk:
+  * Low RisK:
 
 * Recall Score:
-** High Risk:
-** Low RisK:
-** Average:
+  * High Risk:
+  * Low RisK:
+
 
 Model: ClusterCentroids
 
@@ -57,14 +54,12 @@ Model: ClusterCentroids
 * Balanced Accuracy Score:
 
 * Precision Score:
-** High Risk:
-** Low RisK:
-** Average:
+  * High Risk:
+  * Low RisK:
 
 * Recall Score:
-** High Risk:
-** Low RisK:
-** Average:
+  * High Risk:
+  * Low RisK:
 
 
 ## Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
@@ -78,14 +73,12 @@ SMOTEENN Model
 * Balanced Accuracy Score:
 
 * Precision Score:
-** High Risk:
-** Low RisK:
-** Average:
+  * High Risk:
+  * Low RisK:
 
 * Recall Score:
-** High Risk:
-** Low RisK:
-** Average:
+  * High Risk:
+  * Low RisK:
 
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
@@ -99,14 +92,12 @@ Balanced Random Forest Classifier
 * Balanced Accuracy Score:
 
 * Precision Score:
-** High Risk:
-** Low RisK:
-** Average:
+  * High Risk:
+  * Low RisK:
 
 * Recall Score:
-** High Risk:
-** Low RisK:
-** Average:
+  * High Risk:
+  * Low RisK:
 
 Easy Ensemble Classifer
 
@@ -117,14 +108,12 @@ Easy Ensemble Classifer
 * Balanced Accuracy Score:
 
 * Precision Score:
-** High Risk:
-** Low RisK:
-** Average:
+  * High Risk:
+  * Low RisK:
 
 * Recall Score:
-** High Risk:
-** Low RisK:
-** Average:
+  * High Risk:
+  * Low RisK:
 
 # Summary
 
