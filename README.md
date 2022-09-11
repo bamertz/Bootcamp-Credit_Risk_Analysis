@@ -13,7 +13,11 @@ The purpose of this analysis was to create a supervised machine learning model t
 
 Model: Random Over Sampler
 
-SMOTE Model
+[NaiveRandomOversampling1]!(Results/NaiveRandomOversampling1.png)
+[NaiveRandomOversampling2]!(Results/NaiveRandomOversampling2.png)
+
+
+Model: SMOTE
 
 ClusterCentroids Model
 
