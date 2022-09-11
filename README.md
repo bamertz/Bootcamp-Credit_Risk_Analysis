@@ -15,14 +15,28 @@ Model: Random Over Sampler
 
 ![Results/NaiveRandomOversampling1.png](https://github.com/bamertz/Credit_Risk_Analysis/blob/bc51e15dde79421b866323360b49c347efe5a072/Results/NaiveRandomOversampling1.png)
 
+
+![Results/NaiveRandomOversampling2.png](https://github.com/bamertz/Credit_Risk_Analysis/blob/51d42f8a5f977e2fe5e962bc93c36e3e682c474c/Results/NaiveRandomOversampling2.png)
+
+
 Model: SMOTE
 
-ClusterCentroids Model
+![Results/SMOTEOversampling1.png](Results/SMOTEOversampling1.png)
+
+![Results/SMOTEOversampling2.png](Results/SMOTEOversampling2.png)
+
+Model: ClusterCentroids
+
 
 
 ## Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
 
 SMOTEENN Model
+
+![Results/SMOTEENN1.png](Results/SMOTEENN1.png)
+
+![Results/SMOTEENN2.png](Results/SMOTEENN2.png)
+
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
