@@ -13,7 +13,7 @@ The purpose of this analysis was to create a supervised machine learning model t
 
 Model: Random Over Sampler
 
-([Results/NaiveRandomOversampling1.png](https://github.com/bamertz/Credit_Risk_Analysis/blob/bc51e15dde79421b866323360b49c347efe5a072/Results/NaiveRandomOversampling1.png))
+([Results/NaiveRandomOversampling1.png]!(https://github.com/bamertz/Credit_Risk_Analysis/blob/bc51e15dde79421b866323360b49c347efe5a072/Results/NaiveRandomOversampling1.png))
 
 Model: SMOTE
 
