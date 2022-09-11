@@ -117,4 +117,6 @@ Easy Ensemble Classifer
 
 # Summary
 
+The balanced accuracy score and the high risk precision for the first four models is below 70% and are all 0.01 respectively. This indicates the credit risk is quite high. The balanced accuracy score and high risk precision for the Balanced Random Forest Classifier is 82.64% and 0.03. This is a better credit risk, however, the Easy Ensemble AdaBoost Classifier has a balanced accuracy of 92.76% and a high risk precision of 0.07. While the balance isn't the greatest with high risk precision being 0.07 and the recall high risk precision being 0.91, the Easy Ensemble Adaboost Classifier is the best model to use. 
+
 * Deliverable 4 is this README.md file.
