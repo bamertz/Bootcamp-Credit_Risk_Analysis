@@ -27,6 +27,9 @@ Model: SMOTE
 
 Model: ClusterCentroids
 
+![Results/Undersampling1.png](Results/Undersampling1.png)
+
+![Results/Undersampling2.png](Results/Undersampling2.png)
 
 
 ## Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
@@ -42,7 +45,15 @@ SMOTEENN Model
 
 Balanced Random Forest Classifier
 
+![Results/BalancedRandomForestClassifier1.png](Results/BalancedRandomForestClassifier1.png)
+
+![Results/BalancedRandomForestClassifier2.png](Results/BalancedRandomForestClassifier2.png)
+
 Easy Ensemble Classifer
+
+![Results/EasyEnsembleAdaBoostClassifier1.png](Results/EasyEnsembleAdaBoostClassifier1.png)
+
+![Results/EasyEnsembleAdaBoostClassifier2.png](Results/EasyEnsembleAdaBoostClassifier2.png)
 
 # Summary
 
